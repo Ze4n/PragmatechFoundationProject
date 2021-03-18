@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(0, 0, 0, 0.295);
+}
+
+#mainPage {
+    background-color: rgba(0, 0, 0, 0.671);
+    margin: 2%;
+    width: 1259px;
+    height: 84px;
+    border-bottom: 5px solid rgba(41, 202, 41, 0.788);
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.295);
+    width: 1309px;
+    height: 82px;
+    margin: 0%;
+}
+
+div {
+    border: 1px solid rgba(0, 0, 0, 0.322)
+}
+
+.Column {
+    color: rgba(255, 255, 255, 0.856);
+
+}
